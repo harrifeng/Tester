@@ -1,0 +1,1 @@
+from Mamalls import Mamalls
